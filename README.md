@@ -16,7 +16,9 @@ Se reconoce que existen diferentes tipos de discapacidades, entre las que predom
 
 * Discapacidad física: es la secuela de una afección en cualquier órgano o sistema corporal.
 * Discapacidad intelectual: Limitaciones significativas en el funcionamiento intelectual y en la conducta adaptativa. Aparece antes de los 18 años.
-* Discapacidad
+* Discapacidad psicosocial: causad por el entorno social y centrada en una deficiencia temporal o permanente de la psique.
+* Discapacidad auditiva: restricción enla función de la percepción de sonidos externos.
+* Discapacidad visual: deficiencia en la visión, estructuras y funciones asociadas.
 
 ## Principales Ciudades del Ecuador y tipos de discapacidades que encontraremos en cada una de ellas
 
