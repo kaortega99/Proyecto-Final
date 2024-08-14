@@ -12,6 +12,11 @@ Hasta mediados del siglo XX la discapacidad se consideraba desde un enfoque méd
 
 ## Tipos de discapacidad
 
+Se reconoce que existen diferentes tipos de discapacidades, entre las que predominan:
+
+* Discapacidad física: es la secuela de una afección en cualquier órgano o sistema corporal.
+* Discapacidad intelectual: Limitaciones significativas en el funcionamiento intelectual y en la conducta adaptativa. Aparece antes de los 18 años.
+* Discapacidad
 
 ## Principales Ciudades del Ecuador y tipos de discapacidades que encontraremos en cada una de ellas
 
