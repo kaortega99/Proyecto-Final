@@ -12,3 +12,9 @@ Hasta mediados del siglo XX la discapacidad se consideraba desde un enfoque méd
 
 ## Tipos de discapacidad
 
+
+## Principales Ciudades del Ecuador y tipos de discapacidades que encontraremos en cada una de ellas
+
+- [Guayaquil] (Guayaquil.md)
+- [Quito] (Quito.md)
+- [Cuenca] (Cuenca.md)
