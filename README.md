@@ -19,8 +19,12 @@ Se reconoce que existen diferentes tipos de discapacidades, entre las que predom
 * Discapacidad psicosocial: causad por el entorno social y centrada en una deficiencia temporal o permanente de la psique.
 * Discapacidad auditiva: restricción enla función de la percepción de sonidos externos.
 * Discapacidad visual: deficiencia en la visión, estructuras y funciones asociadas.
+* Problemas de lenguaje: En Ecuador se reconoce como un tipo de discapacidad quei mplica la disminución o pérdida total de la capacidad de comunicarse verbalmente.
 
 ## Principales Ciudades del Ecuador y tipos de discapacidades que encontraremos en cada una de ellas
+Para mostrar la prevalencia de los diferentes tipos de discapacidad en Ecuador, en el archivo csv se desglosan las estadísticas que presenta el Consejo Nacional para la Igualdad de Discapacidades (CONADIS) en su base de datos.
+
+Además, el proyecto contiene la contextualización y cifras para las tres ciudades principales del país:
 
 - [Guayaquil](Guayaquil.md)
 - [Quito](Quito.md)
