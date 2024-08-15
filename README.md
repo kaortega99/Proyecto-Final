@@ -1,4 +1,4 @@
-# PROYECTO FINAL: SITUACIÓN ACTUAL DE LAS PERSONAS CON DISCAPACIDAD EN ECUADOR
+# PROYECTO FINAL: LA DISCAPACIDAD EN ECUADOR
 
 El objetivo del presente proyecto es demostrar los conocimientos adquiridos en el manejo de Git y GitHub como parte del programa YRF. Para ello se ha escogido el tema denominado *Situación actual de las personas con discapacidad en Ecuador*.
 
